@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VladyslavLata/huge-profit/static/css/main.7acaea2f.css",
+    "main.js": "/VladyslavLata/huge-profit/static/js/main.61266b09.js",
+    "index.html": "/VladyslavLata/huge-profit/index.html",
+    "main.7acaea2f.css.map": "/VladyslavLata/huge-profit/static/css/main.7acaea2f.css.map",
+    "main.61266b09.js.map": "/VladyslavLata/huge-profit/static/js/main.61266b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.61266b09.js"
+  ]
+}
