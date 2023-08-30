@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/VladyslavLata/huge-profit/static/css/main.7acaea2f.css",
-    "main.js": "/VladyslavLata/huge-profit/static/js/main.4e8a8afd.js",
-    "index.html": "/VladyslavLata/huge-profit/index.html",
-    "main.7acaea2f.css.map": "/VladyslavLata/huge-profit/static/css/main.7acaea2f.css.map",
-    "main.4e8a8afd.js.map": "/VladyslavLata/huge-profit/static/js/main.4e8a8afd.js.map"
+    "main.css": "/huge-profit/static/css/main.7acaea2f.css",
+    "main.js": "/huge-profit/static/js/main.4e8a8afd.js",
+    "index.html": "/huge-profit/index.html",
+    "main.7acaea2f.css.map": "/huge-profit/static/css/main.7acaea2f.css.map",
+    "main.4e8a8afd.js.map": "/huge-profit/static/js/main.4e8a8afd.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
