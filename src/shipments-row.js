@@ -13,7 +13,6 @@ import NumberBlock from 'components/number-block';
 import User from 'user/user-store';
 import formatDate from 'tools/format-date';
 
-// import Button from 'react-bulma-components/lib/components/button';
 import DOM from 'react-dom-factories';
 import { confirmAlert } from 'react-confirm-alert'; // Import
 import { Link } from 'react-router-dom';
