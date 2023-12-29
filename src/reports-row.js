@@ -57,7 +57,7 @@ class ReportsRow extends Component {
   }
 
   getExpensesName(data) {
-    // функція знаходить значення поля name в об'єкті витрат.
+    // функція
     // перевіряємо чи є в data.name символи "t-" , якщо є то поверне index (число >= 0),
 
     let name = data['name'].indexOf('t-') > -1 ? T(data['name']) : data['name'];
