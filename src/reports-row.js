@@ -78,7 +78,7 @@ class ReportsRow extends Component {
       // нижче додані інлайн стилі.
       // ще нижче якісь компоненти в які передають різні пропси. Треба бачити більше коду для детального розуміння ;)
       <tr key={data['id']} className="is-size-7" colSpan="7">
-        <td style={{ textAlign: 'left', paddingTop: '10px' }}>
+        <td style={{ textAlign: 'left', paddingTop: '13px' }}>
           <b style={{ fontSize: '1.5rem' }}>{this.getExpensesName(data)}</b>
           <Level className="is-mobile margin-bottom0">
             <Level.Side align="left">
@@ -144,7 +144,7 @@ class ReportsRow extends Component {
                 {/* Я так розумію , що кнопка  OpenModalButton глобально контролює відкриття модалки.
                 Тобто десь у батьківському компоненті рендереться модалка по умові visibleModal true aбо false.
                 Властивість visibleModal знаходиться в AppStore. Такі висновки я зробив бо знайшов в файлі модалки такий запис:  AppStore.closeModal().
-                AppStore.closeModal() робить властивість visibleModal : false і модалка не відображається.
+                AppStore.closeModal() робить властиість visibleModal : false і модалка не відображається.
                 В компоненті OpenModalButton є параметр state (знайшов його в файлі shipment-row) в який ми можемо передати данні для редагування.
                 OpenModalButton зв'язаний з AddExpensesModal. Тобто ми передаємо данні через компонент OpenModalButton в AddExpensesModal.
                 Для зручності заміню  state на stateData 
