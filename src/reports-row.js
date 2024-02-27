@@ -78,7 +78,7 @@ class ReportsRow extends Component {
       // нижче додані інлайн стилі.
       // ще нижче якісь компоненти в які передають різні пропси. Треба бачити більше коду для детального розуміння ;)
       <tr key={data['id']} className="is-size-7" colSpan="7">
-        <td style={{ textAlign: 'left', paddingTop: '15px' }}>
+        <td style={{ textAlign: 'left', paddingTop: '14px' }}>
           <b style={{ fontSize: '1.5rem' }}>{this.getExpensesName(data)}</b>
           <Level className="is-mobile margin-bottom0">
             <Level.Side align="left">
